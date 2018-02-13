@@ -3,7 +3,7 @@
 documentation [API Star Wars](https://swapi.co/)
 
 git clone 
-https://github.com/risman94/app-github.git
+https://github.com/rismanss/StarWars.git
 
 open terminal and instal all package
 ```
